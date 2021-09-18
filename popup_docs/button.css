@@ -20,5 +20,6 @@ button {
     
 }
 button:hover {
+    background-color: #C2BEF5;
     color: #BEEBF5
 }
