@@ -1,5 +1,5 @@
 {
-"manifest_version": 3,
+"manifest_version": 2,
 "name": "Nithya, Shannon, and Sejal's GC Extension",
 "version": "0.1",
 "content_scripts": [{
@@ -9,7 +9,7 @@
     "js": ["scripts/content.js"]
   }],
 "background": {
-    "service_worker": ["scripts/background.js"]
+    "scripts": ["scripts/background.js"]
     },
 "action": {
     "default_popup": "popup_docs/popup.html"
