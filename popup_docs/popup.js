@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function(){
+/*document.addEventListener('DOMContentLoaded', function(){
     var checkPageButton = document.getElementById('clickIt'';
     checkPageButton.addEventListener('click', function()){
 
@@ -15,4 +15,4 @@ document.addEventListener('DOMContentLoaded', function(){
         });
     }, false);
 
-}, false);
+}, false);*/
