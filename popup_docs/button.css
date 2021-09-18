@@ -18,17 +18,10 @@ button {
     border-radius: 15px;
     font-size: 24px;
     font-family: Verdana;
-    content: Click me!
-}
 
+    
+}
 button:hover {
     background-color: #C2BEF5;
     color: #BEEBF5
-}
-
-button:active{
-    background-color: #f5c2be;
-    box-shadow: 0 5px #666;
-    transform: translateY(6px);
-
 }
