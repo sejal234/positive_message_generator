@@ -16,3 +16,7 @@
     }, false);
 
 }, false);*/
+
+
+var messages = ["You got this!", "You're amazing", "Don't sweat the small stuff!", "Have a great day!"];
+var random_message = random(messages)
