@@ -37,3 +37,5 @@ chrome.runtime.onInstalled.addListener(() => {
 
 // function(tab
 // function(request, sender, sendResponse)
+
+// src="popup.js">
