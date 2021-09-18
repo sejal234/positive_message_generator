@@ -32,8 +32,37 @@ chrome.runtime.onInstalled.addListener(() => {
       "128": "images/pen128.png"
   }
   
+  <!DOCTYPE html>
+<html>  
+<head>  
+<script type = "text/javascript">  
+functionmyfunction(); {   
+    var random_message = random["Hello world", "You're amazing", "You got this"];
+    return random_message;
+}  
+</script> 
+</head>  
+<body>  
+<p>"Hello friend!"</p>  
+<input type = "button" onclick = "myfunction()" value = >Click me!  
+</body>  
+</html>  
   
+<!DOCTYPE html>
+<html>
+   <head>
+        <link rel="stylesheet" href="button.css"> 
+    </head>
+    <body>
+        <script>
+        <button> ="changeColor" = "random_message" </button>;
+        //<script> src="popup.js">//
+        </script>
+    </body>
+</html> //
+
   */
 
 // function(tab
 // function(request, sender, sendResponse)
+
