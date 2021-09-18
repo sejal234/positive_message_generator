@@ -66,3 +66,7 @@ functionmyfunction(); {
 // function(tab
 // function(request, sender, sendResponse)
 
+<<<<<<< HEAD
+=======
+// src="popup.js">
+>>>>>>> ef8a4732469b054642feb882ce6834524dee2c46
