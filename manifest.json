@@ -9,7 +9,7 @@
     "js": ["scripts/content.js"]
   }],
 "background": {
-    "scripts": ["scripts/background.js"]
+    "service_worker": ["scripts/background.js"]
     },
 "action": {
     "default_popup": "popup_docs/popup.html"
