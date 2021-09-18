@@ -1,5 +1,6 @@
 let btn = document.createElement("button");
 btn.innerHTML("Click me!");
+btn.name(randomMess());
 document.body.appendChild(btn);
 btn.onclick = randomMess();
 function randomMess(){
