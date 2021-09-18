@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "manifest_version": 2,
   "name": "Nithya, Shannon, and Sejal's GC Extension",
   "version": "0.1",
@@ -25,23 +24,3 @@
       "128": "images/pen128.png"
   }
 }
-=======
-    "manifest_version": 2,
-    "name": "Creating our first extension",
-    "manifest_version": 2,
-    "version": "1.0",
-    "description": "Build an Extension!",
-    "background": {
-      "scripts": ["scripts/background.js"],
-      "persistent": false
-    },
-    "content_scripts": [{
-      "js": ["scripts/content.js"]
-    },
-    "permissions": ["storage"],  
-    "browser_action": {    
-        "default_icon": "favicon.png",    
-        "default_popup": "./src/extension/popup.html"  
-    }
-}    
->>>>>>> 7821e64318dc5aca36d7489a1abe6773e8c12db1
