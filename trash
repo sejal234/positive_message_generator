@@ -66,7 +66,24 @@ functionmyfunction(); {
 // function(tab
 // function(request, sender, sendResponse)
 
-<<<<<<< HEAD
-=======
-// src="popup.js">
->>>>>>> ef8a4732469b054642feb882ce6834524dee2c46
+// <button id="changeColor">Hello World</button>
+
+/* <script>
+var quotes = ['this is fortune 1',
+  'this is fortune 2',
+  'this is fortune 3',
+  'this is fortune 4',
+  'this is fortune 5',
+  'this is fortune 6',
+  'this is fortune 7',
+];
+
+function newQuote() {
+  var randomNumber = Math.floor(Math.random() * (quotes.length));
+  document.getElementById('quoteDisplay').innerText = quotes[randomNumber];
+}
+</script>
+<div id="quoteDisplay">
+</div>
+<button onclick="newQuote()">New Quote</button> */
+
