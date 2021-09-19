@@ -14,7 +14,7 @@
 "permissions": [
     "activeTab", "storage"
     ],
-"icons": {"heart": "cuteheart.jpg"},
+"icons": {"heart": "cuteheart2.png"},
 "browser_action": {
     "default_popup": "popup_docs/popup.html"
   }
