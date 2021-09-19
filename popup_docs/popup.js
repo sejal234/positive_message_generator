@@ -1,7 +1,7 @@
 //document.getElementById("changeColor")
 function randomMess(){
-    var random_message = random["You got this!", "You're beautiful!", "You're amazing!", "Don't sweat the small stuff!"];
-    alert (random_message)
+    //var random_message = random["You got this!", "You're beautiful!", "You're amazing!", "Don't sweat the small stuff!"];
+    //alert (random_message)
 }
 
 document.addEventListener('DOMContentLoaded', function(){
