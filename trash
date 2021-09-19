@@ -80,3 +80,34 @@ functionmyfunction(); {
 // function(tab
 // function(request, sender, sendResponse)
 
+
+// let random_message = random("you got this!", "you're beautiful!", "you're amazing!");
+// src="popup.js">
+//<ul random_message="list-style-type:circle;">
+  //  <li>you got this!</li>
+    //<li>you're beautiful!</li>
+   // <li>you're amazing!</li>
+// </ul>
+function myFunction() {
+    <button onClick=""> "random_message"
+}
+
+</head>
+<body>
+
+    
+<button onclick="random_message">Click me</button> 
+
+<p id = "demo"></p>
+
+<script>
+//src="popup.js">
+
+function myFunction() {
+    document.getElementById("demo").innerHTML = random("you got this!", "you're beautiful!", "you're amazing!");
+}
+
+</script>
+</body>
+</html>
+*//
