@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function(){
         chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
             var activeTab = tabs[0];
             chrome.tabs.executeScript(activeTab.id, {
-                function: "randomMess"
+                file: "inject.js"
             });
         });
     }, false);
