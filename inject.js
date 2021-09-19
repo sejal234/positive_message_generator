@@ -1,2 +1,2 @@
-var random_message = random["You got this!", "You're beautiful!", "You're amazing!", "Don't sweat the small stuff!"];
+var random_message = "You got this!"
     alert (random_message)
